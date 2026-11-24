@@ -7,7 +7,7 @@ ya que, al comenzar el nivel, los enemigos van bajando, y si tocan al jugador, e
 El juego consiste de 3 niveles, que al terminar el 3 nivel, aparece el jefe final,  
 cada nivel que avance el jugador, mas complicado y rápido caerán las naves.
 
-Interantes: Benjamin Fernandez, Jacob Perez, joaquin Gonzalez, Matias Trincado
+Integrantes: Benjamin Fernandez, Jacob Perez, joaquin Gonzalez, Matias Trincado
 
 # Requisitos
 - Tener JDK 22
